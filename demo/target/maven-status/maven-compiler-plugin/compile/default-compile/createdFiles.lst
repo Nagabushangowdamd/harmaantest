@@ -1,0 +1,5 @@
+com\harman\demo\DemoApplication.class
+com\harman\demo\model\Character.class
+com\harman\demo\model\SuperHeroes.class
+com\harman\demo\controller\TestController.class
+com\harman\demo\controller\TestService.class
